@@ -1,6 +1,7 @@
 SRM RAILWAYS - Online Railway Ticket Booking System
 
 Live Website: https://swayamsinghrajput007-hash.github.io/SRM_Railways/
+
 About the Project:
 
 This is a web-based project I developed to make railway ticket booking easier and more accessible for passengers. The system provides a simple and interactive platform where users can search for trains, check availability, book tickets, and manage their bookings without visiting the railway station.
@@ -23,10 +24,15 @@ Save booking history using file handling / local storage
 Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
+
 Backend Logic: C++
+
 Libraries Used: jsPDF (for PDF ticket), html5-qrcode (for QR scanner)
+
 Object-Oriented Programming (OOP)
+
 File Handling
+
 OOP Concepts Used:
 
 Encapsulation: Used classes like Train, Passenger, Ticket, BookingSystem to keep related data and functions together.
