@@ -36,8 +36,11 @@ File Handling
 OOP Concepts Used:
 
 Encapsulation: Used classes like Train, Passenger, Ticket, BookingSystem to keep related data and functions together.
+
 Abstraction: Created an abstract class to define common booking operations, hiding complex logic from the user.
+
 Inheritance: Different ticket types and user roles inherit common properties from base classes.
+
 Polymorphism: Used virtual functions for different implementations of ticket booking, cancellation, and fare calculation.
 What I Learned:
 
